@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/616/719/787/stars-planet-space-mountains-wallpaper-preview.jpg);
+    background-position: 90% ; /*esto determina que tan a la izquierda comenzará*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+  color:  #FC7BEC; 
+  text-align: center;
+  font-weight: 800;
+  text-align: center;
+  font-size: 90px;
+  font-family: "Marcador permanente", cursiva;
+}
+h5, p{
+    font-size: 50px;
+    color: tomato;
+}
+.accordion-button{
+    background-color: rgb(43, 174, 226);
+    font-weight: 800;
+}
+.accordion-body{
+    background-color: rgb(228, 236, 152);
+}
+#accordionExample{
+    padding: 120px;
+}
+#carouselExampleDark{
+    padding: 10%;
+}
+img{
+    width: 40%;
+   padding: 340px;
+   display: flex;
+   justify-content: center;
+}
+hr{
+    border-width: 20px;
+    color: rgb(57, 19, 92);
+}
